@@ -5,7 +5,7 @@ int main (void)
 {
 
   puts ("Vvedite temperaturu");
- //puts ("Vvedite temperaturu");
+  
 
   float c, f, k;
   scanf ("%f", &c);
